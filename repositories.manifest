@@ -3,4 +3,4 @@ summary: fix project repository
 
 :
 role: prerequisite
-location: https://github.com/karen-arutyunov/foo.git#main
+location: https://github.com/karen-arutyunov/fax.git#main
