@@ -1,0 +1,6 @@
+$out_root/
+{
+  include libfix/
+}
+
+export $out_root/libfix/$import.target
