@@ -1,0 +1,7 @@
+: 1
+name: libfix
+version: 1.0.0-a.0.20240627093610.e4b9e9d44ddb
+language: c++
+project: fix
+summary: fix C++ library
+license: other: proprietary; Not free/open source.
